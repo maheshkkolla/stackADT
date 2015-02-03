@@ -14,5 +14,5 @@ struct node {
 };
 
 Stack createStack(void);
-int push(Stack, void *);
-void * pop(Stack );
+int push(Stack *, void *);
+void * pop(Stack *);

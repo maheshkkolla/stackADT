@@ -2,3 +2,4 @@ expr_assert.h
 *.o
 *Runner.c
 *Runner.exe
+stackTestRunner.exe.core
